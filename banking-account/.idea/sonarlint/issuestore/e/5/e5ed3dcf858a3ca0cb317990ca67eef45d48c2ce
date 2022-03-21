@@ -1,0 +1,5 @@
+
+h
+java:S6204A"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(маўЯ
+[
+java:S1612A"EReplace this lambda with method reference 'EventModel::getEventData'.(маўЯ
